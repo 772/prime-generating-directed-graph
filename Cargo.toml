@@ -1,7 +1,6 @@
 [package]
-name = "directed-graph-for-primes"
-version = "0.1.0"
+name = "prime-generating-directed-graph"
+version = "0.1.1"
 authors = ["Armin Schäfer"]
 license-file = "LICENSE"
 edition = "2021"
-publish = false
