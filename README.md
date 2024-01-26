@@ -1,5 +1,5 @@
-# directed-graph-for-primes
+# prime-generating-directed-graph
 
-A directed graph generated via the first nine primes.
+A directed graph able to generate the first nine primes.
 
 ![PlantUML](image.png)
